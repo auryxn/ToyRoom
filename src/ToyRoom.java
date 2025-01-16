@@ -1,5 +1,10 @@
 import java.util.Arrays;
 
+//здесь просто выводит все, я только сейчас посмотрел что это пункт
+
+
+
+
 class ToyRoom {
     public static void displayToys(Toy[] toys) {
         System.out.println("Игрушки, отсортированные по категории:");

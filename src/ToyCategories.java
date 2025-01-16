@@ -1,5 +1,7 @@
 import java.util.Arrays;
 
+//здесь категории игрушек
+
 public class ToyCategories {
     public static void main(String[] args) {
         // Определяем категории и подкатегории через обычный массив

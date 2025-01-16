@@ -1,3 +1,8 @@
+
+//здесь все параметры игрушек(по идеи здесь добавишь то что игрушки имеют цену)
+
+
+
 class Toy {
     private String category;
     private String subcategory;
